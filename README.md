@@ -1,0 +1,2 @@
+# ncalc
+a Noru Calculator
